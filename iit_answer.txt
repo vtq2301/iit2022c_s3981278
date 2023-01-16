@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-All answers are hard.
-=======
-
->>>>>>> parent of 69c9d2f (updated txt)
+All answers are easy.
